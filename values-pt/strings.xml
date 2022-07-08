@@ -7,7 +7,7 @@
     <string name="action_user">"Utilizador"</string>
     <string name="action_collection">"Coleção"</string>
     <string name="action_mode">"Ativar modo de edição"</string>
-    <string name="new_collection">"Novo Coleção"</string>
+    <string name="new_collection">"Nova Coleção"</string>
     <string name="enter_new_name">"Introduza novo nome"</string>
     <string name="delete_collection">"Apagar"</string>
     <string name="change_name">"Alterar nome"</string>
@@ -72,7 +72,7 @@
     <string name="next_coin">"Próxima"</string>
     <string name="new_coin">"Nova"</string>
     <string name="attention">"Atenção"</string>
-    <string name="force_unlock_user">"Erro ao carregar o carregar o utilizador. Forçar desbloqueio?"</string>
+    <string name="force_unlock_user">"Erro ao carregar o utilizador. Forçar desbloqueio?"</string>
     <string name="action_restore_backup">"Restaurar cópia de segurança"</string>
     <string name="action_delete_old_backups">"Apagar cópias de segurança antigas"</string>
     <string name="delete_old_backups">"Apagar cópias de segurança antigas?"</string>
@@ -84,7 +84,7 @@
     <string name="click_the_coin_set_expand_button">"Para abrir o grupo de conjunto de moedas toque no botão \'+\'"</string>
     <string name="action_manage_shared_collection">"gerenciar"</string>
     <string name="collection_is_not_shared">"Esta coleção não foi compartilhada"</string>
-    <string name="register">"registrar-se"</string>
+    <string name="register">"registar-se"</string>
 
     <!-- v5.0 -->
     <string name="pref_text_size_3">"Tamanho do texto 3 (lista de seleção)"</string>
