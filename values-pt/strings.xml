@@ -156,26 +156,26 @@
     <string name="login_error">"Erro ao fazer login"</string>
     <string name="search_coin">"pesquisa moeda"</string>
     <string name="enter_coin_search_text">"digite o texto para procurar"</string>
-    <string name="no_matching_coins_found">"Nenhum moedas correspondentes foram encontrados"</string>
-    <string name="pref_collect_series">"série Colete"</string>
+    <string name="no_matching_coins_found">"Nenhumas moedas correspondentes foram encontradas"</string>
+    <string name="pref_collect_series">"série Coleção"</string>
     <string name="pref_commemorative_coins">"As moedas comemorativas"</string>
 
     <!-- changed in 5.1 -->
-    <string name="pref_collect_two_euro_only">"Não colete moedas padrão"</string>
+    <string name="pref_collect_two_euro_only">"Não colecione moedas padrão"</string>
 
     <!-- version 5.3 -->
     <string name="enter_coin_value">"Digite o valor da moeda"</string>
     <string name="select_image">"escolher a imagem"</string>
-    <string name="no_camera_permission">"Em Android menu aplicativos ativar \'Permissão\' para \'Camera \'"</string>
+    <string name="no_camera_permission">"Em Android menu aplicativos ativar \'Permissão\' para \'Câmera \'"</string>
     <string name="pref_coin_photo_size">"tamanho da imagem da câmera"</string>
     <string name="permission_error">"erro de permissão"</string>
     <string name="image_load_error">"erro ao carregar imagem"</string>
-    <string name="not_registered_user_email">"\'%1$s\' não é um e-mail registrado de um usuário."</string>
+    <string name="not_registered_user_email">"\'%1$s\' não é um e-mail registado de um usuário."</string>
     <string name="action_force_sync_collections">"Sincronizar vigor"</string>
     <string name="is_2_euro_cc">"é uma moeda comemorativa de 2€"</string>
     <string name="confirm_rename_collection_title">"coleção renomeada"</string>
     <string name="confirm_rename_collection">"Você quer mudar o nome da coleção \'%1$s\' para \'%2$s\'"</string>
-    <string name="show_newest_added_coins">"moedas mais novos"</string>
+    <string name="show_newest_added_coins">"moedas mais novas"</string>
     <string name="i_dont_have_this_coin">"Eu não tenho essa moeda"</string>
     <string name="create_as_multiview">"Criar Multi View"</string>
     <string name="select_collections">"selecionar coleções"</string>
@@ -191,19 +191,19 @@
     <string name="collection_modus_to_offline">"Gerenciar no dispositivo"</string>
     <string name="collection_modus_to_online">"gerenciar on-line"</string>
     <string name="no_internet_no_modus_on_offline">"conexão com a Internet deve estar disponível para mudar este modo"</string>
-    <string name="set_collection_modus_error">"Erro ao mudar modus coleção. Por favor, tente novamente mais tarde."</string>
+    <string name="set_collection_modus_error">"Erro ao mudar modo de coleção. Por favor, tente novamente mais tarde."</string>
     <string name="editing_only_in_collection_mode_online">"Defina esta coleção a ser gerenciados on-line no seu dispositivo mestre para permitir a edição em todos os seus dispositivos"</string>
     <string name="no_internet_no_editing">"Internet não está disponível, mas é obrigatório para on-line gestão de colecções."</string>
-    <string name="collection_editing_locked">"Coleção bloqueado por outro dispositivo"</string>
-    <string name="collection_not_locked">"Colecção não foi bloqueado ou de bloqueio foi levantada por um outro dispositivo"</string>
-    <string name="collection_editing_locked_force_unlock">"Você quer forçar trancando-a para o seu dispositivo? Não alterações sincronizadas serão perdidas."</string>
+    <string name="collection_editing_locked">"Coleção bloqueada por outro dispositivo"</string>
+    <string name="collection_not_locked">"Colecção não foi bloqueada ou o bloqueio foi levantado por um outro dispositivo"</string>
+    <string name="collection_editing_locked_force_unlock">"Você quer forçar trancando-a para o seu dispositivo? Alterações não sincronizadas serão perdidas."</string>
     <string name="request_edit_token_error">"Erro ao solicitar o modo de edição on-line"</string>
     <string name="release_edit_token_error">"Erro ao liberar o bloqueio de edição on-line"</string>
-    <string name="collection_not_online_managed">"Coleção não está on-line gerenciado"</string>
+    <string name="collection_not_online_managed">"Coleção não está gerenciada on-line"</string>
     <string name="close">"fechar"</string>
-    <string name="pref_collect_german_mints">"balas alemão Colete"</string>
-    <string name="pref_collect_greece_2002_foreign_mints">"Recolha Grécia 2002 balas estrangeiros"</string>
-    <string name="collect_no_years_but_german_mints_is_invalid">"Não recolher anos, mas balas alemão é uma combinação não suportada"</string>
+    <string name="pref_collect_german_mints">"Colecionar cunhagens Alemãs"</string>
+    <string name="pref_collect_greece_2002_foreign_mints">"Recolha Grécia 2002 cunhagens estrangeiras"</string>
+    <string name="collect_no_years_but_german_mints_is_invalid">"Não recolher anos e recolher cunhagens alemãs é uma combinação não suportada"</string>
 
     <!-- version 5.6 -->
     <string name="user_name_already_exists">"o nome já existe"</string>
@@ -213,17 +213,17 @@
     <string name="transfer_collection">"Transferência de coleções"</string>
 
     <!-- version 5.6.5 -->
-    <string name="building_album_please_wait">"Álbum de construção - aguarde por favor"</string>
+    <string name="building_album_please_wait">"Álbum em construção - aguarde por favor"</string>
 
     <!-- version 5.6.9 -->
     <string name="ok">"Está bem"</string>
     <string name="split_collection">"Dividido"</string>
     <string name="enter_number_of_coins_for_splitting">"Por favor, indique o número de moedas por moeda disponível você deseja transferir para a primeira cópia. Restantes irão para a segunda cópia desta coleção. A coleção original não será alterado ou excluído."</string>
-    <string name="collection_split_ok">"Coleção foi dividido em 2 novas coleções. Depois de analisar aqueles que você pode excluir a coleção original."</string>
+    <string name="collection_split_ok">"Coleção foi dividida em 2 novas coleções. Depois de analisar aqueles que você pode excluir da coleção original."</string>
     <string name="transfer_collection_error">"Erro ao transferir a coleção '%1$s'"</string>
 
     <!-- version 5.6.10 -->
-    <string name="collection_transferred_title">"Coleção '%1$s' foi transferido para outro dispositivo."</string>
+    <string name="collection_transferred_title">"Coleção '%1$s' foi transferida para outro dispositivo."</string>
     <string name="owner_this_device">"Este aparelho"</string>
     <string name="owner_your_other_device">"Um dos seus outros dispositivos"</string>
     <string name="collection_now_online_managed">"Editando coleção é agora também possível nos seus outros dispositivos"</string>
@@ -232,25 +232,25 @@
     <!-- version 6.0 -->
     <string name="countryname_world">"No mundo todo"</string>
     <string name="action_trading_partners">"Os parceiros comerciais"</string>
-    <string name="title_no_trading_partners_found">"Não há parceiros comerciais encontrado"</string>
+    <string name="title_no_trading_partners_found">"Não há parceiros comerciais encontrados"</string>
     <string name="title_trading_partner_found">"Os parceiros comerciais"</string>
     <string name="change_my_country_only_hint">"Você pode encontrar parceiros comerciais se você também permitir que parceiros de outros países a negociação de seu próprio um no diálogo de configurações."</string>
     <string name="pref_trading_partners_from_my_country_only">"Mostrar negociação parceiro só do meu país."</string>
     <string name="number_of_coins">"Moedas"</string>
     <string name="confirm_reset_trading_partners">"Você quer redefinir a sua pesquisa e incluir parceiros comerciais antigos?"</string>
     <string name="enter_new_public_name">"Introduzir novo nome da coleção pública"</string>
-    <string name="change_public_name">"Nome público Change"</string>
-    <string name="collection_is_not_public">"Coleção não é público"</string>
-    <string name="coin_to_trading_basket_added">"Coin adicionados ao carrinho de negociação"</string>
-    <string name="confirm_publish_trading_collection">"Você realmente quer publicar sua coleção como uma coleção negociáveis? Todos os dados (por exemplo notas de moedas) da coleção será visível para os outros. De cada uma de suas moedas '%1$d' moeda (s) será hold trás e não estarão disponíveis para negociação. Você pode mudar este número nas configurações."</string>
-    <string name="collection_is_trading">"Esta coleção não pode ser excluído porque ele está sendo usado nas seguintes coleções comerciais:%1$s"</string>
-    <string name="action_get_next_trading_partners">"Pega o próximo parceiro comercial"</string>
-    <string name="action_reset_trading_partners">"Busca Restart"</string>
-    <string name="trading_partners_resetted">"Parceiros comerciais velhos foram reativados."</string>
-    <string name="ask_link_trading_collection">"Um usuário quer é trocar moedas com sua coleção pública '%1$s'. A coleção de negociação '%2$s' serão carregados."</string>
+    <string name="change_public_name">"Alteração do Nome público"</string>
+    <string name="collection_is_not_public">"Coleção não é pública"</string>
+    <string name="coin_to_trading_basket_added">"Moedas adicionadas ao carrinho de negociação"</string>
+    <string name="confirm_publish_trading_collection">"Você realmente quer publicar sua coleção como uma coleção negociável? Todos os dados (por exemplo notas de moedas) da coleção serão visíveis para os outros. De cada uma de suas moedas '%1$d' moeda (s) será hold trás e não estarão disponíveis para negociação. Você pode mudar este número nas configurações."</string>
+    <string name="collection_is_trading">"Esta coleção não pode ser excluída porque ela está a ser usada nas seguintes coleções comerciais:%1$s"</string>
+    <string name="action_get_next_trading_partners">"Selecionar o próximo parceiro comercial"</string>
+    <string name="action_reset_trading_partners">"Recomeçar Busca"</string>
+    <string name="trading_partners_resetted">"Parceiros comerciais antigos foram reativados."</string>
+    <string name="ask_link_trading_collection">"Um utilizador quer trocar moedas com sua coleção pública '%1$s'. A coleção de negociação '%2$s' será carregada."</string>
     <string name="action_help_trading_partners">"Uso"</string>
-    <string name="not_your_trading_turn">"Você não pode editar a coleção negociação agora porque é a vez de seu parceiro de negociação."</string>
-    <string name="trading_confirmed_already">"Esta coleção negociação já foi confirmado por ambos os lados. Contacto '%1$s' e enviar as moedas. Se fizer assim marcar este comércio como executado."</string>
+    <string name="not_your_trading_turn">"Você não pode editar a coleção de negociação agora porque é a vez de seu parceiro de negociação."</string>
+    <string name="trading_confirmed_already">"Esta coleção de negociação já foi confirmada por ambos os lados. Contacto '%1$s' e envie as moedas. Se já o fez marque esta negociação como executada."</string>
     <string name="action_send_to_trading_partner">"Enviar para o parceiro comercial"</string>
     <string name="action_confirm_trade">"O comércio Confirmar"</string>
     <string name="confirm_trade_confirmation_message">"Você realmente quer para confirmar o comércio? Isso não cria um contrato entre o tanto de você. Ambos você receberá um e-mail e você tem que concordar sobre a forma de executar o comércio."</string>
