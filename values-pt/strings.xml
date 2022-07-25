@@ -234,7 +234,7 @@
     <string name="action_trading_partners">"Os parceiros comerciais"</string>
     <string name="title_no_trading_partners_found">"Não há parceiros comerciais encontrado"</string>
     <string name="title_trading_partner_found">"Os parceiros comerciais"</string>
-    <string name="change_my_country_only_hint">"Você pode encontrar parceiros comerciais se você também permitir que parceiros de outros países a negociação de seu próprio um no diálogo de configurações."</string>
+    <string name="change_my_country_only_hint">"Você pode encontrar parceiros de trocas se você também permitir que parceiros de outros países além do seu no menu de configurações."</"</string>
     <string name="pref_trading_partners_from_my_country_only">"Mostrar negociação parceiro só do meu país."</string>
     <string name="number_of_coins">"Moedas"</string>
     <string name="confirm_reset_trading_partners">"Você quer redefinir a sua pesquisa e incluir parceiros comerciais antigos?"</string>
@@ -242,64 +242,64 @@
     <string name="change_public_name">"Nome público Change"</string>
     <string name="collection_is_not_public">"Coleção não é público"</string>
     <string name="coin_to_trading_basket_added">"Coin adicionados ao carrinho de negociação"</string>
-    <string name="confirm_publish_trading_collection">"Você realmente quer publicar sua coleção como uma coleção negociáveis? Todos os dados (por exemplo notas de moedas) da coleção será visível para os outros. De cada uma de suas moedas '%1$d' moeda (s) será hold trás e não estarão disponíveis para negociação. Você pode mudar este número nas configurações."</string>
-    <string name="collection_is_trading">"Esta coleção não pode ser excluído porque ele está sendo usado nas seguintes coleções comerciais:%1$s"</string>
-    <string name="action_get_next_trading_partners">"Pega o próximo parceiro comercial"</string>
-    <string name="action_reset_trading_partners">"Busca Restart"</string>
-    <string name="trading_partners_resetted">"Parceiros comerciais velhos foram reativados."</string>
-    <string name="ask_link_trading_collection">"Um usuário quer é trocar moedas com sua coleção pública '%1$s'. A coleção de negociação '%2$s' serão carregados."</string>
+    <string name="confirm_publish_trading_collection">"Você realmente quer publicar sua coleção como uma coleção negociável? Todos os dados (por exemplo notas das moedas) da coleção serão visíveis para os outros. Até ao número '%1$d' de suas moeda (s) serão retidas e não estarão disponíveis para negociação. Você pode mudar este número nas configurações."</"</string>
+    <string name="collection_is_trading">"Esta coleção não pode ser excluída porque ele está sendo usada nas seguintes coleções de troca:%1$s"</string>
+    <string name="action_get_next_trading_partners">"Selecionar o próximo parceiro de trocas"</string>
+    <string name="action_reset_trading_partners">"Recomeçar a busca"</string>
+    <string name="trading_partners_resetted">"Antigos Parceiros de troca foram reativados."</string>
+    <string name="ask_link_trading_collection">"Um utilizador quer trocar moedas com sua coleção pública '%1$s'. A coleção de negociação '%2$s' será carregada."</string>
     <string name="action_help_trading_partners">"Uso"</string>
-    <string name="not_your_trading_turn">"Você não pode editar a coleção negociação agora porque é a vez de seu parceiro de negociação."</string>
-    <string name="trading_confirmed_already">"Esta coleção negociação já foi confirmado por ambos os lados. Contacto '%1$s' e enviar as moedas. Se fizer assim marcar este comércio como executado."</string>
-    <string name="action_send_to_trading_partner">"Enviar para o parceiro comercial"</string>
-    <string name="action_confirm_trade">"O comércio Confirmar"</string>
-    <string name="confirm_trade_confirmation_message">"Você realmente quer para confirmar o comércio? Isso não cria um contrato entre o tanto de você. Ambos você receberá um e-mail e você tem que concordar sobre a forma de executar o comércio."</string>
+    <string name="not_your_trading_turn">"Você não pode editar a coleção de trocas agora porque é a vez de seu parceiro de trocas."</string>
+    <string name="trading_confirmed_already">"Esta coleção de trocas já foi confirmada por ambos os lados. Contacte '%1$s' e envie as moedas. Se fizer assim marque esta troca como executada."</string>
+    <string name="action_send_to_trading_partner">"Enviar para o parceiro de trocas"</string>
+    <string name="action_confirm_trade">"Confirmar a troca"</string>
+    <string name="confirm_trade_confirmation_message">"Você realmente quer confirmar a troca? Isso não cria um contrato entre os dois. Ambos receberão um e-mail e têm de acordar a forma de executar a troca."</string>
     <string name="device_time_too_old">"A hora atual no seu dispositivo é muito antiga."</string>
-    <string name="trading_session_empty_no_sending">"Não há moedas para negociação selecionado. Por favor, adicione moedas antes de enviar para parceiro comercial."</string>
-    <string name="trading_collection_deleted_by_counterparty">"A coleção de negociação '%1$s' foi excluído pelo parceiro comercial."</string>
-    <string name="account_not_activated">"Conta não ativo. Por favor, registre seu endereço de e-mail e confirmar a ligação de registo ou desativar a nuvem apresenta nas configurações."</string>
+    <string name="trading_session_empty_no_sending">"Não há moedas para negociação selecionadas. Por favor, adicione moedas antes de enviar para parceiro de trocas."</string>
+    <string name="trading_collection_deleted_by_counterparty">"A coleção de negociação '%1$s' foi excluída pelo parceiro de trocas."</string>
+    <string name="account_not_activated">"Conta não ativa. Por favor, registe o seu endereço de e-mail e confirme o link de registo ou desative a opção de nuvem apresentada nas configurações."</string>
     <string name="action_share_public">"Publicar..."</string>
-    <string name="action_retract_share_public">"Recolha a coleção de negociação"</string>
-    <string name="collection_published_for_trading">"Coleção foi publicado. Quer procurar parceiros comerciais agora?"</string>
-    <string name="collection_retracted_for_trading">"Coleção foi recolhido do público. Esta coleção não estará disponível para novos trads por mais tempo."</string>
+    <string name="action_retract_share_public">"Retirar a coleção de negociação"</string>
+    <string name="collection_published_for_trading">"Coleção foi publicada. Quer procurar parceiros de troca agora?"</string>
+    <string name="collection_retracted_for_trading">"Coleção foi retirada do acesso público. Esta coleção não estará disponível para novas trocas por mais tempo."</string>
     <string name="public_name_empty">"Nome público não pode estar vazio"</string>
     <string name="email_invalid">"Endereço de email inválido"</string>
     <string name="collection_is_public">"Público"</string>
-    <string name="trading_your_turn">"Agora é a sua vez de coleção de edição trading '%1$s'. Quando você é feito, em seguida, enviá-lo de volta ao seu parceiro comercial ou confirmar o comércio se você não mudou nada."</string>
-    <string name="trading_confirmed">"O comércio para a recolha de negociação '%1$s' foi confirmada por você e seu parceiro comercial '%2$s'. Você receberá um e-mail com os detalhes. Por favor, compartilhe seu endereço postal com o seu parceiro de negociação."</string>
-    <string name="trading_sent_collection">"A coleção foi enviado para o seu parceiro comercial. É agora a vez de seu parceiro comercial para editar a coleção negociação ou confirmar o estado atual."</string>
-    <string name="pref_trading_coins_to_keep">"Negociação: moedas para manter"</string>
+    <string name="trading_your_turn">"Agora é a sua vez de editar a coleção de troca '%1$s'. Quando tiver terminado, em seguida, envie-a de volta ao seu parceiro de troca ou confirme a troca se você não mudou nada."</string>
+    <string name="trading_confirmed">"A troca para a coleção de negociação '%1$s' foi confirmada por você e seu parceiro de trocas '%2$s'. Você receberá um e-mail com os detalhes. Por favor, compartilhe seu endereço postal com o seu parceiro de trocas."</string>
+    <string name="trading_sent_collection">"A coleção foi enviada para o seu parceiro de trocas. É agora a vez de seu parceiro de trocas editar a coleção de troca ou confirmar o estado atual."</string>
+    <string name="pref_trading_coins_to_keep">"Troca: moedas para manter"</string>
     <string name="collection_has_no_tradable_coins">"Sua coleção não tem qualquer moeda negociável. Adicionar mais moedas ou reduzir o número de moedas para manter nas configurações."</string>
-    <string name="user_keeps_non_tradable_coins">"A coleção '%1$s' mantém é restantes moedas como não negociáveis."</string>
-    <string name="trading_coins_removed">"Os seguintes moedas comerciais foram removidos da coleção '%1$s'."</string>
-    <string name="trade_was_executed">"A coleção negociação foi marcada como 'executado'."</string>
-    <string name="action_trade_set_executed">"O comércio foi executado"</string>
-    <string name="no_executed_trades">"Trades Sem executados encontrados. Go e compartilhar sua coleção e trocar suas moedas com outros usuários!"</string>
-    <string name="action_show_executed_trades">"negócios realizados"</string>
-    <string name="missing_coin_infos_for_trade_confirmation">"As condições de moeda ou imagens estão faltando. Adicionar a informação que falta em sua coleção."</string>
+    <string name="user_keeps_non_tradable_coins">"A coleção '%1$s' mantém as restantes moedas como não negociáveis."</string>
+    <string name="trading_coins_removed">"As seguintes moedas de troca foram removidos da coleção '%1$s'."</string>
+    <string name="trade_was_executed">"A coleção negociação foi marcada como 'executada'."</string>
+    <string name="action_trade_set_executed">"A troca foi executada"</string>
+    <string name="no_executed_trades">"Não foram encontradas trocas executadas. Compartilhe a sua coleção e troque suas moedas com outros utilizadores!"</string>
+    <string name="action_show_executed_trades">"trocas realizadas"</string>
+    <string name="missing_coin_infos_for_trade_confirmation">"As condições da moeda ou imagens estão em falta. Adicionar a informação que falta na sua coleção."</string>
     <string name="condition_not_set">"Desconhecido"</string>
-    <string name="condition_uncirculated">"Uncirculated"</string>
-    <string name="condition_circulated_quality_high">"Alta qualidade Circulado"</string>
-    <string name="condition_circulated_quality_medium">"Qualidade média Circulado"</string>
-    <string name="condition_circulated_quality_low">"Baixa qualidade Circulado"</string>
+    <string name="condition_uncirculated">"Não circulada"</string>
+    <string name="condition_circulated_quality_high">"Alta qualidade Circulada"</string>
+    <string name="condition_circulated_quality_medium">"Qualidade média Circulada"</string>
+    <string name="condition_circulated_quality_low">"Baixa qualidade Circulada"</string>
     <string name="condition_abr_not_set">"?"</string>
     <string name="condition_abr_uncirculated">"Unc"</string>
     <string name="condition_abr_circulated_quality_high">"CH"</string>
     <string name="condition_abr_circulated_quality_medium">"CM"</string>
     <string name="condition_abr_circulated_quality_low">"CL"</string>
-    <string name="fixed_unsupported_settings_germany">"A definição de 'balas Recolha alemão' foi desligada, uma vez que não é suportado em combinação com a configuração 'anos Recolha-se este foi desligado."</string>
-    <string name="fixed_unsupported_settings_years_series">" 'A cobrar anos' as configurações e 'série recolher' não deve ser ativado em conjunto. A configuração 'série recolher' foi desligado."</string>
+    <string name="fixed_unsupported_settings_germany">"A definição de 'Recolha cunhagem alemã' foi desligada, uma vez que não é suportado em combinação com a configuração 'Recolha por anos' se esta for desligada."</string>
+    <string name="fixed_unsupported_settings_years_series">" As configurações 'Colecionar anos' e 'colecionar série' não devem ser ativadas em conjunto. A configuração 'Colecionar série' foi desligada."</string>
     <string name="collect_years_and_series_is_invalid">"Recolher anos e série é uma combinação incompatível."</string>
     <string name="delete_photo">"Você realmente quer apagar a foto?"</string>
     <string name="uploading_coin_image">"Fazer upload de imagem."</string>
     <string name="uploaded_coin_image">"Envio de imagem."</string>
-    <string name="coin_image_upload_error">"Imagem Erro ao carregar a tempo. Por favor, tente novamente mais tarde."</string>
+    <string name="coin_image_upload_error">"Erro ao carregar a imagem. Por favor, tente novamente mais tarde."</string>
     <string name="report_photo">"Denunciar imagem"</string>
-    <string name="photo_reported">"A imagem foi relatado"</string>
+    <string name="photo_reported">"A imagem foi denunciada"</string>
     <string name="report_photo_message">"Você realmente quer denunciar a imagem como uma violação dos termos de condições?"</string>
-    <string name="collection_has_reported_coin_images">"A coleção '%1$s' contém imagens que foram relatados como uma violação dos termos de condições por outros usuários. Por favor, verificar e atualizar sua coleção. Um abuso levará à exclusão de sua conta."</string>
-    <string name="reported_photos_title">"imagens relatou"</string>
-    <string name="trading_collection_deleted_by_underlying">"A coleção de negociação '%1$s' foi excluído automaticamente porque a coleção subjacente '%2$s' foi eliminado também."</string>
+    <string name="collection_has_reported_coin_images">"A coleção '%1$s' contém imagens que foram denunciadas como uma violação dos termos de condições por outros utilizadores. Por favor, verifique e atualize a sua coleção. Um abuso levará à exclusão de sua conta."</string>
+    <string name="reported_photos_title">"imagens denunciadas"</string>
+    <string name="trading_collection_deleted_by_underlying">"A coleção de troca '%1$s' foi excluída automaticamente porque a coleção subjacente '%2$s' foi eliminada também."</string>
     <string name="message_history">"Mostrar histórico"</string>
     <string name="title_messages">"Mensagens"</string>
     <string name="delete_messages">"APAGAR TUDO"</string>
@@ -307,88 +307,88 @@
     <string name="country_residence">"Residência"</string>
     <string name="pref_country_residence">"O seu país (residência)"</string>
     <string name="set_pref_country_residence">"Por favor, selecione seu país (residência) nas configurações de diálogo em primeiro lugar."</string>
-    <string name="no_collections_found">"Nenhuma coleção encontrado"</string>
-    <string name="trading_user_linked">"Linked coleção trading '%1$s'."</string>
-    <string name="confirm_send_to_trading_partner">"Você está pronto para enviar a coleção de negociação para o seu parceiro comercial? Tem em mente que o seu parceiro comercial pode, exceto a coleção de negociação como você enviá-lo."</string>
-    <string name="linked_for_trading_collection_type">"Parceiro comercial"</string>
-    <string name="confirmed_trade_type">"Confirmado"</string>
-    <string name="executed_trade_type">"Executado"</string>
+    <string name="no_collections_found">"Nenhuma coleção encontrada"</string>
+    <string name="trading_user_linked">"Coleção de troca ligada '%1$s'."</string>
+    <string name="confirm_send_to_trading_partner">"Você está pronto para enviar a coleção  para o seu parceiro de troca? Ter em mente que o seu parceiro de troca pode excluir a coleção de troca qnado você a enviar."</string>
+    <string name="linked_for_trading_collection_type">"Parceiro de troca"</string>
+    <string name="confirmed_trade_type">"Confirmada"</string>
+    <string name="executed_trade_type">"Executada"</string>
     <string name="waiting_trade_type">"Esperando"</string>
     <string name="action_special_features">"Características especiais"</string>
-    <string name="trading_hint_colours">"As imagens brilhantes são as moedas que você não tem, mas o seu parceiro comercial. Vice-versa para as imagens escuras. A linha superior mostra as moedas que você selecionou para receber enquanto os shows linha inferior aquelas moedas que vai para o seu parceiro comercial. os números em cada moeda são x/y/z x=quantas desta moeda você doar (o sinal negativo é apenas uma sugestão para você que você dá a esta moeda de distância), y = quantas desta moeda poderia ser negociado, z = quantas desta moeda, você receberá"</string>
-    <string name="block_trading">"Block negociação"</string>
-    <string name="coins_removed_from_trading">"Removido automaticamente moedas da cesta negociação"</string>
-    <string name="coin_used_in_trade">"Esta moeda já foi selecionado na coleção de negociação '%1$s'. Certifique-se que ele será removido da cesta de negociação."</string>
-    <string name="trading_hint_edit_collection_and_send">"Adicionar ou remover moedas para a cesta negociação como você faz com sua coleção normal (desbloqueio e moeda toque imagem brilhante com). Assim que estiver pronto toque no botão enviar (ou via menu) para enviar a coleção de negociação para o seu parceiro comercial. Para acabar com o comércio simplesmente eliminar a colecção de negociação."</string>
-    <string name="trading_hint_confirm_trade">"Ou alterar a coleção de negociação ou aceitá-lo exactamente como o seu parceiro comercial enviado a você sem quaisquer outras alterações ao tocar no botão de confirmação. Este não irá criar um contrato entre o tanto de você! Se houver uma diferença no valor nominal das moedas entre os dois parceiros comerciais, em seguida, isso tem que ser equalizado, adicionando a quantidade correta ao pacote"</string>
-    <string name="trading_hint_executed_trade">"Quando você enviou as moedas para o seu parceiro comercial e recebeu suas moedas você pode defini-lo como executado ao tocar no botão de e-mail."</string>
+    <string name="trading_hint_colours">"As imagens brilhantes são as moedas que você não tem, mas tem o seu parceiro de troca. Vice-versa para as imagens escuras. A linha superior mostra as moedas que você selecionou para receber enquanto a linha inferior aquelas moedas que vai para o seu parceiro de troca. Os números em cada moeda são x/y/z x=quantas desta moeda você vai doar (o sinal negativo é apenas uma sugestão para você que você dá esta moeda), y = quantas destas moedas poderiam ser negociadas, z = quantas desta moedas você receberá"</string>
+    <string name="block_trading">"Bloquear negociação"</string>
+    <string name="coins_removed_from_trading">"Moedas removidas automaticamente da cesta de negociação"</string>
+    <string name="coin_used_in_trade">"Esta moeda já foi selecionada na coleção de negociação '%1$s'. Certifique-se que ela será removido da cesta de negociação."</string>
+    <string name="trading_hint_edit_collection_and_send">"Adicionar ou remover moedas para a cesta negociação como você faz com sua coleção normal (desbloqueie a moeda com um toque na imagem brilhante). Assim que estiver pronto toque no botão enviar (ou via menu) para enviar a coleção de troca para o seu parceiro de troca. Para acabar com a troca simplesmente eliminar a colecção de troca."</string>
+    <string name="trading_hint_confirm_trade">"Altere a coleção de troca ou aceite-a exactamente como o seu parceiro de troca a enviou a você, sem quaisquer outras alterações ao tocar no botão de confirmação. Este NÃO irá criar um contrato entre os dois! Se houver uma diferença no valor nominal das moedas entre os dois parceiros de troca, em seguida, isso tem que ser ajustado adicionando a quantidade correta ao pacote"</string>
+    <string name="trading_hint_executed_trade">"Quando você enviou as moedas para o seu parceiro de troca e recebeu as suas moedas você pode marcar a troca como executada ao tocar no botão de e-mail."</string>
     <string name="edit_trade_before_executed">"Editar"</string>
-    <string name="action_trade_set_executed_merge">"Se o comércio foi executado como esperado é possível atualizar automaticamente sua coleção principal, selecionando 'Sim'. Ou você pode escolher 'Não' para atualizar sua coleção manualmente. Se as moedas negociadas não correspondem a coleção negociação selecionar 'Editar' para mudança a coleção de negociação antes de defini-la para ser executado mais tarde. Alterações na coleção de negociação não será sincronizado com seu parceiro comercial mais tempo"</string>
-    <string name="confirmed_trade_is_editable">"Você pode editar a coleção negociação já confirmado por desbloquear ele. A coleção de negociação não será sincronizado mais com o seu parceiro de negociação. Uma vez que a coleta de negociação corresponde as moedas negociadas marcá-lo novamente como 'executado'."</string>
-    <string name="no_coins_from_trade_merged">"NÃO moedas foram adicionadas ou removidas de ou para sua coleção."</string>
-    <string name="not_all_coins_from_trade_merged">"Não todas as moedas foram adicionadas ou removidas de ou para sua coleção."</string>
-    <string name="user_side_has_no_coins_for_trading_selected_but_trading_partner">"Você não selecionar qualquer moeda para receber, mas apenas para dar de presente. As imagens brilhantes moeda são aqueles que você atualmente não tem."</string>
-    <string name="no_coin_in_trading_collection">"Nenhum moedas foram adicionados à coleção de negociação. Por favor, adicione moedas que você deseja receber de seu parceiro comercial, selecionando as imagens brilhantes moeda."</string>
+    <string name="action_trade_set_executed_merge">"Se a troca foi executada como esperado é possível atualizar automaticamente a sua coleção principal, selecionando 'Sim'. Ou você pode escolher 'Não' para atualizar a sua coleção manualmente. Se as moedas trocadas não correspondem a coleção de troca, selecionar 'Editar' para mudar a coleção de troca antes de defini-la para ser executado mais tarde. Alterações na coleção de troca já não serão sincronizadas com seu parceiro de troca."</string>
+    <string name="confirmed_trade_is_editable">"Você pode editar a coleção de troca já confirmada se a desbloquear. A coleção de troca não será mais sincronizada com o seu parceiro de troca. Uma vez que a coleção de troca corresponda às moedas negociadas marque-a novamente como 'executada'."</string>
+    <string name="no_coins_from_trade_merged">"NENHUMAS moedas foram adicionadas ou removidas de, ou para sua coleção."</string>
+    <string name="not_all_coins_from_trade_merged">"NEM todas as moedas foram adicionadas ou removidas de, ou para sua coleção."</string>
+    <string name="user_side_has_no_coins_for_trading_selected_but_trading_partner">"Você não selecionou nenhuma moeda para receber, apenas selecionou moedas para dar. As imagens brilhantes das moedas são aquelas que você atualmente não tem."</string>
+    <string name="no_coin_in_trading_collection">"Nenhumas moedas foram adicionadas à coleção de troca. Por favor, adicione moedas que você deseja receber de seu parceiro de troca, selecionando as imagens brilhantes das moedas."</string>
     <string name="trade_exceeds_value_limit">"A diferença do valor das moedas a ser negociadas (%1$s %3$s) excede o limite permitido de %2$s %3$s."</string>
     <string name="cent">"centavo"</string>
-    <string name="trading_coin_replaced_other_condition">"O seguinte moeda da coleção negociação não tinha condição de moeda antes e agora ser atribuído: '%1$s'\n%2$s %3$s %4$s %5$s."</string>
-    <string name="trading_collection_contains_deleted_coins">"A coleção de negociação contém moedas que não estão presentes na coleção subjacente."</string>
-    <string name="trading_collection_image_error">"A coleção de negociação não pode carregar todas as imagens das moedas corretamente. Por favor, apague a coleção de negociação para evitar missunderstanding."</string>
-    <string name="trading_condition_available">"Você adicionou uma moeda que não tem conjunto condição de moeda, mas há uma outra moeda que tem uma condição de moeda ou uma foto personalizada. Sua seleção pode ficar se você não estiver satisfeito com as outras moedas, mas o seu parceiro comercial pode não adicionar a condição moeda para outras moedas. Geralmente é melhor para selecionar as moedas que já têm uma condição moeda ou costume conjunto de fotos"</string>
-    <string name="trading_no_condition_available">"Você adicionou uma moeda que não tem conjunto condição moeda. Depois de enviar a coleção de negociação para o seu parceiro comercial ele / ela tem de atualizar a coleção. Você deve depois verificar se a condição moeda atenda às suas expectativas."</string>
-    <string name="trading_diff_amount_pay">"Esta é a quantidade de dinheiro que você tem que pagar para o seu parceiro comercial, além disso."</string>
-    <string name="trading_diff_amount_receive">"Esta é a quantidade de dinheiro que você vai receber de seu parceiro comercial, além disso."</string>
-    <string name="no_files_for_import_found">"Não há arquivos para importação encontrado na pasta de Downloads."</string>
+    <string name="trading_coin_replaced_other_condition">"A seguinte moeda da coleção de troca não tinha condição de moeda antes e agora tem que ser atribuída: '%1$s'\n%2$s %3$s %4$s %5$s."</string>
+    <string name="trading_collection_contains_deleted_coins">"A coleção de troca contém moedas que não estão presentes na coleção subjacente."</string>
+    <string name="trading_collection_image_error">"A coleção de troca não pode carregar todas as imagens das moedas corretamente. Por favor, apague a coleção de troca para evitar desentendimentos."</string>
+    <string name="trading_condition_available">"Você adicionou uma moeda que não tem a condição da moeda, mas há uma outra moeda que tem a condição da moeda ou uma foto personalizada. Sua seleção pode ficar se você não estiver satisfeito com as outras moedas, mas o seu parceiro de troca pode não adicionar a condição moeda para outras moedas. Geralmente é melhor selecionar moedas que já têm a condição da moeda ou uma foto"</string>
+    <string name="trading_no_condition_available">"Você adicionou uma moeda que não tem a condição da moeda. Depois de enviar a coleção de troca para o seu parceiro de troca ele / ela tem de atualizar a coleção. Você deve depois verificar se a condição da moeda corresponde às suas expectativas."</string>
+    <string name="trading_diff_amount_pay">"Esta é a quantidade de dinheiro que você tem que pagar ao seu parceiro de troca, além disso."</string>
+    <string name="trading_diff_amount_receive">"Esta é a quantidade de dinheiro que você tem que receber do seu parceiro de troca, além disso."</string>
+    <string name="no_files_for_import_found">"Não há arquivos para importação encontrados na pasta de Downloads."</string>
     <string name="email_confirmed">"Endereço de e-mail foi confirmado."</string>
-    <string name="setup_account">"Conta Setup"</string>
+    <string name="setup_account">"Configure a Conta"</string>
     <string name="device_new_master">"Este dispositivo é o dispositivo mestre?"</string>
 
     <string name="how_trading_partner_works">"
 - A funcionalidade de negociação não é para principiantes.
-- Leia tudo isto com cuidado! Caso contrário, você pode ser decepcionado com a funcionalidade de negociação.
-- A negociação de moedas com outros comerciantes é muito mais complexo do que você pode pensar. Especialmente quando o tempo de concordar com as moedas a serem negociados preciso mais do que apenas um par de horas que você tem que considerar que a recolha de seu parceiro comercial pode ter mudado nesse meio tempo. Isso tem um impacto.
+- Leia tudo isto com cuidado! Caso contrário, você pode ficar decepcionado com a funcionalidade de negociação.
+- A negociação de moedas com outros utilizadores é muito mais complexo do que você pode pensar. Especialmente quando o tempo de concordar com as moedas a serem negociados preciso mais do que apenas um par de horas que você tem que considerar que a recolha de seu parceiro de troca pode ter mudado nesse meio tempo. Isso tem um impacto.
 - Você concede permissão para publicar qualquer informação (notas, imagens, nome, e-mail, país, ...) de sua coleção usando a funcionalidade de negociação.
-- Você pode trocar moedas com outros usuários, mas utilizando a funcionalidade de negociação deste aplicativo não deve ser considerado como uma oferta ou como um contrato em termos legais! Faça o que fizer ou ver neste app - isso não é vinculativa ninguém a nada.
-- A funcionalidade de negociação pode encontrar parceiros comerciais para a sua coleção selecionada no momento.
-- Para encontrar um parceiro comercial primeiro você precisa dar sua coleção um nome público que será visível para os outros e partilhar a sua colecção ao público.
-- Todas as moedas de sua coleção estará disponível para os outros para a seleção, exceto como muitos como você especificado nas configurações 'Negociação: Moedas de manter'.
-- Você pode explicitally excluir moedas individuais e impedir que eles sejam negociados via propriedade da moeda 'bloco comercial'. Tenha em mente que as moedas ainda bloqueados será visível para o público.
-- Se você não quer que todas as suas moedas estão disponíveis para negociação você tem que dividir sua coleção pela primeira vez.
+- Você pode trocar moedas com outros utilizadores, mas utilizando a funcionalidade de negociação deste aplicativo não deve ser considerado como uma oferta ou como um contrato em termos legais! Faça o que fizer ou vir neste app - isso não é vincula ninguém a nada.
+- A funcionalidade de negociação pode encontrar parceiros de troca para a sua coleção selecionada no momento.
+- Para encontrar um parceiro de troca primeiro você precisa dar sua coleção um nome público que será visível para os outros e partilhar a sua colecção ao público.
+- Todas as moedas da sua coleção estarão disponíveis para os outros para a seleção, exceto as que você especificar nas configurações 'Negociação: Moedas a manter'.
+- Você pode excluir explicitamente moedas individuais e impedir que eles sejam negociadas via propriedade da moeda 'bloqueio de troca'. Tenha em mente que as moedas bloqueadas serão visíveis para o público.
+- Se você não quiser que todas as suas moedas estejam disponíveis para negociação, primeiro você tem que dividir sua coleção.
 - Sua coleção precisa de ter um nome público que também será visível para os outros. O mesmo se aplica ao seu endereço de e-mail.
-- Todas as informações dentro de sua coleção será visível para o público (notas, ...). Ao adicionar informações você concorda em adicionar somente informações válidas sobre a moeda. Qualquer abuso pode ser relatado por outros e pode levar à exclusão de sua conta.
-- Você pode selecionar uma imagem ou tire uma foto e atribuí-la a uma moeda. Qualquer imagem atribuída será visível para o público. Ao fazer isso, você concorda com imagens apenas atribuir onde você tem o direito de fazê-lo e que somente a moeda correspondente shows. Qualquer abuso pode ser relatado por outros e pode levar à exclusão de sua conta.
+- Todas as informações dentro da sua coleção serão visíveis para o público (notas, ...). Ao adicionar informações você concorda em adicionar somente informações válidas sobre a moeda. Qualquer abuso pode ser relatado por outros e pode levar à exclusão de sua conta.
+- Você pode selecionar uma imagem ou tirar uma foto e atribuí-la a uma moeda. Qualquer imagem atribuída será visível para o público. Ao fazer isso, você concorda em apenas atribuir imagens onde você tem o direito de fazê-lo e que apareça somente a moeda correspondente. Qualquer abuso pode ser relatado por outros e pode levar à exclusão de sua conta.
 - Um abuso do recurso de abuso pode levar à exclusão de sua conta.
-- Você vai receber uma coleção parceiro comercial por pedido. Você pode ligar para o parceiro comercial mostrado ou requenst a próxima. Uma vez que você tem todos os parceiros comerciais a pesquisa irá recomeçar.
-- Por padrão, você receberá os parceiros comerciais que têm o mesmo país de residência como você escolheu nas configurações. Esse comportamento também pode ser alterado nas configurações. Em seguida, você receberá parceiros comerciais de todos os países.
-- Apenas os parceiros comerciais serão apresentados na pesquisa que usaram o aplicativo nos últimos dias. Isso é para garantir que você não ficar coleções obsoletos.
-- Se você quer que sua coleção pode ser encontrada por outros usuários que você tem que abrir o aplicativo uma vez por semana. Atualmente não há nenhuma push-notificação para os usuários que querem trocar com você. Você tem que abrir o app - só então o aplicativo sincroniza as coleções comerciais e você ver se alguém quer é trocar moedas com você.
-- A coleção parceiro comercial será baixado e ligado no seu dispositivo também para que você pode navegar totalmente.
-- A nova coleção de negociação será criado no seu dispositivo que combina sua coleção ea coleção parceiro comercial.
-- Os coleção mostra comerciais apenas estas moedas que só estão presentes em uma das duas coleções de base.
-- As moedas que sua coleção não contém, mas fazem parte do acervo do parceiro comercial será mostrada uma imagem mais brilhante com.
-- As moedas que sua coleção contém mas não fazem parte do acervo do parceiro comercial será mostrada uma imagem mais escura com.
-- Moedas que foram seleccionadas para negociação vai aparecer na cesta de negociação. A cesta na parte superior mostra as moedas que lhe serão enviados ao passo que o outro na parte inferior aquelas que você tem que enviar para o seu parceiro comercial.
-- Você pode remover uma moeda da cesta negociação se você longo tocar a moeda ou com o botão Remover na caixa de diálogo detalhes de moedas onde você adicionou a moeda. Uma torneira em qualquer moeda na cesta negociação irá destacar a moeda dentro da visão de coleção.
-- Um pequeno ícone de parada vermelho na imagem moeda na cesta de negociação indica que esta moeda tem nenhuma condição de moeda ou foto atribuída. Antes que o comércio pode ser confirmada no final tem que ser removido ou uma condição de moeda ou uma foto tem de ser atribuído na coleção correspondente que detém a moeda.
-- Inicialmente, um '0' é mostrado em cada moeda indicando que esta moeda não faz parte da cesta de negociação.
-- Um toque das moedas para ver os detalhes dessa moeda.
-- No Detalhe-View (se você ativou o modo de edição), você pode usar o botão 'adicionar' para adicionar essa moeda para a cesta de negociação.
-- Com o botão 'Remover' você pode removê-lo.
+- Você vai receber uma coleção do parceiro de troca por pedido. Você pode conectar ao parceiro de troca mostrado ou pedir o próximo. Uma vez que você tenha todos os parceiros de troca a pesquisa irá recomeçar.
+- Por padrão, você receberá os parceiros de troca que têm o mesmo país de residência que você escolheu nas configurações. Esse comportamento também pode ser alterado nas configurações. Em seguida, você receberá parceiros de trocas de todos os países.
+- Apenas os parceiros de troca serão apresentados na pesquisa que usaram o aplicativo nos últimos dias. Isso é para garantir que você não fica com coleções obsoletas.
+- Se você quer que sua coleção possa ser encontrada por outros utilizadores você tem que abrir o aplicativo uma vez por semana. Atualmente não há nenhuma push-notificação para os utilizadores que queiram trocar consigo. Você tem que abrir a app - só então o aplicativo sincroniza as coleções de troca e você ver se alguém quer trocar moedas com você.
+- A coleção do parceiro de troca será baixada e ligada no seu dispositivo também para que você possa navegar totalmente.
+- A nova coleção de troca será criada no seu dispositivo que combina sua coleção e a coleção do parceiro de troca.
+- Os coleção de troca mostra apenas as moedas que só estão presentes em uma das duas coleções de base.
+- As moedas que sua coleção não contém, mas fazem parte do acervo do parceiro de troca serão mostradas com uma imagem mais brilhante.
+- As moedas que sua coleção contém mas não fazem parte do acervo do parceiro de troca será mostrada com uma imagem mais escura.
+- Moedas que foram seleccionadas para troca vão aparecer na cesta de trocas. A cesta na parte superior mostra as moedas que lhe serão enviados ao passo que na parte inferior, aquelas que você tem que enviar para o seu parceiro de troca.
+- Você pode remover uma moeda da cesta de trocas se você tocar prolongadamente a moeda ou com o botão Remover na caixa de diálogo detalhes de moedas onde você adicionou a moeda. Um toque em qualquer moeda na cesta de negociação irá destacar a moeda dentro da visão de coleção.
+- Um pequeno ícone de stop vermelho na imagem da moeda na cesta de troca indica que esta moeda não tem nenhuma condição de moeda ou foto atribuída. Antes que a troca possa ser confirmada no final a moeda tem que ser removido ou uma adicionada uma condição de moeda ou uma foto na coleção correspondente de quem detém a moeda.
+- Inicialmente, um '0' é mostrado em cada moeda indicando que esta moeda não faz parte da cesta de trocas.
+- Toque nas moedas para ver os detalhes dessa moeda.
+- Na vista de detalhe (se você ativou o modo de edição), você pode usar o botão 'adicionar' para adicionar essa moeda para a cesta de trocas.
+- Com o botão 'Remover' você pode removê-la.
 - Você pode adicionar e remover ambos os lados: as moedas que você quer ter e aqueles que você vai dar de presente.
-- Você só deve adicionar e moedas remove do seu parceiro comercial quando você tem uma boa razão.
-- Depois de adicionar uma moeda para o comércio de cesta '1' vai aparecer indicando que uma das moedas foi selecionado e adicionado à cesta de negociação. Um meio números negativ que você dá essa moeda afastado enquanto um número positivo indica que você receberá essa moeda.
-- Se sua coleção ou coleção do parceiro comercial conter várias moedas de uma moeda específica, então você pode navegar na exibição de detalhes cada uma dessas moedas. Escolher exatamente esta moeda que você deseja adicionar à cesta de negociação que você quer ter. Diferentes moedas podem estar em diferentes condições.
-- No topo da tela todas as moedas que você receberá são listados. Na parte inferior todas as moedas que você vai dar de presente serão listados. Toque em qualquer dessas moedas para mudar para essa moeda. Longo segurar uma moeda para removê-lo da coleção de negociação. Você pode horizontalmente percorrer estas listas.
-- A estatística para coleções comerciais é diferente para coleções normais. x/y/z x=sempre negativ e mostrando quantas moedas você vai doar; y = número de possíveis moedas differnt ao comércio; z = sempre positiv e mostrando quantas moedas você receberá.
-- Uma vez que você terminou sua seleção enviar o pedido de negociação para o seu parceiro comercial.
-- O parceiro comercial será informado de que uma nova sessão de negociação foi iniciada. Agora, o seu parceiro comercial pode editar a coleção de negociação e enviá-lo de volta para você.
-- Para ter uma melhor visão geral que poderia faz sentido para escrever no papel as moedas que foram seleccionadas para negociação. Atualmente, o aplicativo não suporta uma história da coleção de negociação. Você sempre vê apenas o estado atual.
-- Ambos os usuários podem editar a cesta negociação após o outro até que um usuário não alterar a coleção mais, mas confirmar o comércio. Se houver uma diferença no valor nominal das moedas entre os dois parceiros comerciais, em seguida, isso tem que ser equalizado, adicionando a quantidade correta para o pacote.
-- Um comércio só pode ser confirmado se cada moeda negociada tem ou o conjunto de propriedades condição de moeda ou uma imagem individual anexado.
-- Depois que o comércio foi confirmado você e seu parceiro comercial receberá um email com um do outro e-mail-endereços e uma lista com as moedas que foram seleccionadas para negociação.
-- Quando você enviada com sucesso suas moedas mais um, eventualmente, quantidade de dinheiro para equalizar a diferença entre o valor nominal para o seu parceiro comercial e recebeu suas novas moedas marcar a recolha de negociação, executado através do menu coleção de negociação. Em seguida, a coleção não aparecerá no menu do usuário mais, mas no menu-> Collection-> trading_partners-> negócios realizados.
-- Embora a criação da coleção de negociação para 'executado' você pode optar por atualizar automaticamente sua coleção. Escolha 'Não' para atualizar sua coleção manualmente. Com 'Editar' você tem permissão para editar a coleção de negociação, mesmo depois que foi confirmado. Use-o para o caso de que as moedas negociadas para não coincidir com a coleção de negociação. Mas a coleção de negociação não será sincronizado com seu parceiro comercial mais. Após as moedas negociadas e a coleção negociação corresponder você pode voltar a marcar a coleção como executados e escolher 'Sim' para atualizar automaticamente sua própria coleção.
-- Se você não quer iniciar ou continuar uma sessão de negociação, você pode simplesmente eliminar a colecção de negociação. Você será perguntado se deseja excluir a coleção parceiro comercial subjacente também.
+- Você só deve adicionar e remover moedas do seu parceiro de trocas se tiver uma boa razão.
+- Depois de adicionar uma moeda para a cesta de trocas, um '1' vai aparecer indicando que uma das moedas foi selecionada e adicionada à cesta de trocas. Um número negativo indica que você dá essa moeda enquanto um número positivo indica que você receberá essa moeda.
+- Se sua coleção ou coleção do parceiro de troca contiver várias moedas de uma moeda específica, então você pode navegar na exibição de detalhes de cada uma dessas moedas. Escolher exatamente qual a moeda que você deseja adicionar à cesta de trocas e receber. Diferentes moedas podem estar em diferentes condições.
+- No topo da tela todas as moedas que você receberá são listados. Na parte inferior todas as moedas que você vai dar de presente serão listadas. Toque em qualquer uma dessas moedas para mudar para essa moeda. Toque prolongadamente numa moeda para removê-la da coleção de trocas. Você pode percorrer horizontalmente estas listas.
+- A estatística para coleções de troca é diferente das coleções normais. x/y/z x=sempre negativo e mostrando quantas moedas você vai doar; y = número de possíveis moedas diferentes para troca; z = sempre positivo e mostrando quantas moedas você receberá.
+- Uma vez que você terminou sua seleção, envie o pedido de negociação para o seu parceiro de troca.
+- O parceiro de troca será informado de que uma nova sessão de troca foi iniciada. Agora, o seu parceiro de troca pode editar a coleção de troca e enviá-la de volta para si.
+- Para ter uma melhor visão geral poderá fazer sentido escrever num papel as moedas que foram seleccionadas para troca. Atualmente, o aplicativo não suporta uma história da coleção de troca. Você apenas vê o estado atual.
+- Ambos os utilizadores podem editar a cesta de trocas após o outro até que um utilizador não altere mais a coleção e confirme a troca. Se houver uma diferença no valor nominal das moedas entre os dois parceiros de troca, em seguida, isso tem que ser equalizado, adicionando a quantidade correta no pacote de envio das moedas.
+- Uma troca só pode ser confirmada se todas as moeda negociadas tiverem ou o conjunto de propriedades condição de moeda ou uma imagem individual associada.
+- Depois de uma troca ter sido confirmada, você e seu parceiro de troca receberão um email com os endereços de email de cada utilizador e uma lista com as moedas que foram seleccionadas para troca.
+- Quando você enviar com sucesso suas moedas para o seu parceiro de troca, mais uma eventual quantidade de dinheiro para equalizar a diferença entre o valor nominal e recebeu suas novas moedas, marque a negociação de troca como executada, através do menu coleção de troca. Em seguida, a coleção não aparecerá mais no menu do utilizador, mas no menu-> Collection-> trading_partners-> negócios realizados.
+- Quando marcar a coleção de troca como 'executada' você pode optar por atualizar automaticamente a sua coleção. Escolha 'Não' para atualizar a sua coleção manualmente. Com 'Editar' você tem permissão para editar a coleção de troca, mesmo depois desta ter sido confirmada. Use esta opção para o caso de que as moedas trocadas não coincidirem com a coleção de troca. Mas a coleção de troca não será mais sincronizada com seu parceiro de troca. Após as moedas negociadas e a coleção de troca corresponderem você pode voltar a marcar a coleção como executada e escolher 'Sim' para atualizar automaticamente sua própria coleção.
+- Se você não quer iniciar ou continuar uma sessão de troca, você pode simplesmente eliminar a colecção de troca. Você será perguntado se deseja excluir também a coleção do parceiro de troca subjacente.
 "</string>
 
     <string name="version_history_current">"Versão 7.0\n
@@ -397,8 +397,8 @@
          Moedas comemorativas de 2€ 2021 e 2022 adicionadas."</string>
 
     <string name="version_history_last">"Versão 6.6\n
-        Fixação de crash na colecção de exportação e criação de pdf\n
-        2 euros de moedas comemorativas 2020 adicionadas."</string>
+        Correção de crash na exportação de colecção e criação de pdf\n
+        Moedas comemorativas de 2€ 2020 adicionadas."</string>
 
     <string name="coin_1cent">"1 Cêntimo"</string>
     <string name="coin_2cent">"2 Cêntimos"</string>
